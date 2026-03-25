@@ -11,6 +11,13 @@ return {
 				json = { "prettier" },
 				lua = { "stylua" },
 				yaml = { "prettier" },
+				-- React
+				javascript = { "prettier" },
+				javascriptreact = { "prettier" },
+				typescript = { "prettier" },
+				typescriptreact = { "prettier" },
+				-- Rails
+				ruby = { "rubocop" },
 			},
 		})
 

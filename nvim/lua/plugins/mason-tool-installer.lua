@@ -8,9 +8,10 @@ return {
 
 		mason_tool_installer.setup({
 			ensure_installed = { -- List of tools to automatically install
-				-- formatters
 				"prettier",
 				"stylua",
+				-- Rails
+				"rubocop",
 			},
 		})
 	end,

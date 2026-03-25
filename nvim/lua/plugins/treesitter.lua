@@ -24,6 +24,14 @@ return {
 				"toml",
 				"vim",
 				"yaml",
+				-- Rails
+				"embedded_template",
+				"ruby",
+				-- React
+				"html",
+				"javascript",
+				"tsx",
+				"typescript",
 			},
 		})
 	end,

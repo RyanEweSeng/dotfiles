@@ -14,6 +14,10 @@ return {
 				"jsonls",
 				"lua_ls",
 				"yamlls",
+				-- Rails
+				"ruby_lsp",
+				-- React
+				"ts_ls",
 			},
 		})
 	end,
