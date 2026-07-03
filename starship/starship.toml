@@ -80,7 +80,7 @@ symbol = 'nodejs'
 
 [python]
 disabled = false
-format = '[$symbol $version ]($style)'
+format = '[(\($virtualenv\) )$symbol $version ]($style)'
 style = 'bold #ffd43b'
 symbol = 'py'
 
