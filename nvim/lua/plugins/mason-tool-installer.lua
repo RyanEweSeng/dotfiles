@@ -11,6 +11,8 @@ return {
 				-- formatters
 				"prettier",
 				"stylua",
+				-- Python
+				"ruff",
 			},
 		})
 	end,

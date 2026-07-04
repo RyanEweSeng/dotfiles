@@ -11,6 +11,8 @@ return {
 				json = { "prettier" },
 				lua = { "stylua" },
 				yaml = { "prettier" },
+				-- Python
+				python = { "ruff_fix", "ruff_format" },
 			},
 		})
 

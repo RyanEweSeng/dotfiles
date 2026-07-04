@@ -83,6 +83,7 @@ disabled = false
 format = '[(\($virtualenv\) )$symbol $version ]($style)'
 style = 'bold #ffd43b'
 symbol = 'py'
+detect_folders = ['venv']
 
 [ruby]
 disabled = false

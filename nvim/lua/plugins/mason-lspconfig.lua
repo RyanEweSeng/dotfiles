@@ -14,6 +14,9 @@ return {
 				"jsonls",
 				"lua_ls",
 				"yamlls",
+				-- Python
+				"basedpyright",
+				"ruff",
 			},
 		})
 	end,
