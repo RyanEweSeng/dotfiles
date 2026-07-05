@@ -1,7 +1,7 @@
 -- Completion engine with support for LSPs, cmdline, signature help, and snippets
 return {
 	"saghen/blink.cmp",
-	tag = "v1.9.1",
+	tag = "v1.10.2",
 	dependencies = "rafamadriz/friendly-snippets",
 	event = "InsertEnter",
 	config = function()

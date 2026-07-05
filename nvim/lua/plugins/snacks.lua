@@ -1,7 +1,7 @@
 -- Collection of quality of life plugins
 return {
 	"folke/snacks.nvim",
-	tag = "v2.23.0",
+	tag = "v2.31.0",
 	event = "VimEnter",
 	config = function()
 		local snacks = require("snacks")

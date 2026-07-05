@@ -1,7 +1,7 @@
 -- Statusline
 return {
 	"nvim-lualine/lualine.nvim",
-	commit = "47f91c4",
+	commit = "221ce6b",
 	dependencies = "nvim-tree/nvim-web-devicons",
 	event = "VeryLazy",
 	config = function()

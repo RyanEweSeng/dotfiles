@@ -1,7 +1,7 @@
 -- LSP configuration framework
 return {
 	"neovim/nvim-lspconfig",
-	tag = "v2.6.0",
+	tag = "v2.10.0",
 	event = { "BufReadPre", "BufNewFile" },
 	config = function()
 		local blink_cmp = require("blink.cmp")

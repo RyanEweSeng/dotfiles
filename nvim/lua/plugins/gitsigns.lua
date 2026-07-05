@@ -1,7 +1,7 @@
 -- View Git decorators in signcolumn, hunks, diff previews, and blameline
 return {
 	"lewis6991/gitsigns.nvim",
-	tag = "v2.0.0",
+	tag = "v2.1.0",
 	event = { "BufReadPre", "BufNewFile" },
 	config = function()
 		local gitsigns = require("gitsigns")

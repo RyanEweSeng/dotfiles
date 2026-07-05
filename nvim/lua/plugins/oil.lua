@@ -1,7 +1,7 @@
 -- File explorer as a buffer
 return {
 	"stevearc/oil.nvim",
-	tag = "v2.15.0",
+	tag = "v2.16.0",
 	dependencies = "nvim-tree/nvim-web-devicons",
 	lazy = false,
 	config = function()

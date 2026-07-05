@@ -1,7 +1,7 @@
 -- Automatically close pairs like (), [], {}, '', and "" with support for Treesitter and completion engines
 return {
 	"windwp/nvim-autopairs",
-	commit = "59bce2e",
+	commit = "7b9923a",
 	event = "InsertEnter",
 	config = function()
 		local nvim_autopairs = require("nvim-autopairs")

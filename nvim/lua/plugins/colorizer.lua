@@ -1,7 +1,7 @@
 -- Highlights color codes
 return {
 	"catgoose/nvim-colorizer.lua",
-	commit = "ae0d663",
+	commit = "664c0b7",
 	event = { "BufReadPre", "BufNewFile" },
 	config = function()
 		local colorizer = require("colorizer")

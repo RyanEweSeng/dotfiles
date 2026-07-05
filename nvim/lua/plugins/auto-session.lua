@@ -1,7 +1,7 @@
 -- Automatically reopen the files and windows you had open
 return {
 	"rmagatti/auto-session",
-	commit = "6243753",
+	commit = "6cde387",
 	config = function()
 		local auto_session = require("auto-session")
 
