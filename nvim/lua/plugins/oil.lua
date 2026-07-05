@@ -30,6 +30,7 @@ return {
 				max_width = 0.5,
 				max_height = 0.5,
 				preview_split = "right",
+				border = "rounded",
 			},
 		})
 	end,
